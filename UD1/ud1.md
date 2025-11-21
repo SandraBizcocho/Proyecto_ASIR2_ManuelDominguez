@@ -3,7 +3,7 @@
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
 
 <p align="center">
-  <img src="/img/analisis3.jpg" alt="![analisis3](/UD1/img/analisis3.jpg)" />
+  <img src="UD1/img/analisis3.jpg" alt="![analisis3](/UD1/img/analisis3.jpg)" />
 </p>  
 
 
