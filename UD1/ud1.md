@@ -2,7 +2,7 @@
 
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
 
-![analisis](/../img/analisis.jpeg)
+![analisis](/img/analisis.jpeg)
 
 ## Índice de apartados
 
