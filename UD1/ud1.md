@@ -4,7 +4,7 @@
 
 ![analisis](/UD1/img/analisis.jpeg)
 ![analisis2](/UD1/img/analisis2.jpeg)
-![analisis3](/UD1/img/analisis3.jpeg)
+![analisis3](/UD1/img/analisis3.jpg)
 
 ## Índice de apartados
 
