@@ -2,10 +2,16 @@
 
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
 
+![analisis](/../img/analisis.jpeg)
+
 ## Índice de apartados
 
 - [ ] **1. Análisis del sector tecnológico**
+
+
+    
 - [ ] **2. Selección de la empresa o contexto de trabajo**
+- [ ] Aquí tengo que poner 1 empresa de todas las preestudiadas y poner los motivos de mi elección
 - [ ] **3. Identificación de necesidades tecnológicas**
 - [ ] **4. Oportunidades y viabilidad del proyecto**
 - [ ] **5. Obligaciones legales y normativas**
