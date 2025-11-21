@@ -2,9 +2,10 @@
 
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
 
-![analisis](/UD1/img/analisis.jpeg)
-![analisis2](/UD1/img/analisis2.jpeg)
-![analisis3](/UD1/img/analisis3.jpg)
+<p align="center">
+  <img src="/img/webcam.jpeg" alt="![analisis3](/UD1/img/analisis3.jpg)" />
+</p>  
+
 
 ## Índice de apartados
 
