@@ -3,7 +3,7 @@
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
 
 ![analisis](/UD1/img/analisis.jpeg)
-
+![analisis2](/UD1/img/analisis2.jpeg)
 ## Índice de apartados
 
 - [ ] **1. Análisis del sector tecnológico**
