@@ -2,6 +2,11 @@
 
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
 
+![Debian Version](https://img.shields.io/badge/Debian-12_Bookworm-A81D33?logo=debian&logoColor=white)
+![AWS Service](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazon-aws&logoColor=white)
+![Docker Version](https://img.shields.io/badge/Docker-24.0+-0db7ed?logo=docker&logoColor=white)
+![Postgres Version](https://img.shields.io/badge/PostgreSQL-15-316192?logo=postgresql&logoColor=white)
+
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
