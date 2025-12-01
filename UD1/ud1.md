@@ -44,7 +44,7 @@
 
   He seleccionado la empresa Soltel Group porque esta compañía es un referente en el sector TIC andaluz, especializada en consultoría, integración de sistemas y transformación digital.
 
-📍 Ubicación y Contexto Geográfico: Aunque la empresa tiene orígenes vinculados al tejido empresarial del Aljarafe (Polígono PISA), su sede central actual se ubica en el Parque Científico y     Tecnológico Cartuja (PCT Cartuja), concretamente en la calle Leonardo da Vinci. Este emplazamiento es estratégico, situándose en el "Silicon Valley" andaluz, rodeada de más de 550 empresas     tecnológicas y centros de investigación.
+📍 Ubicación y Contexto Geográfico: Aunque la empresa tiene orígenes vinculados al tejido empresarial del Aljarafe (Polígono PISA), su sede central actual se ubica en el Parque Científico y       Tecnológico Cartuja (PCT Cartuja), concretamente en la calle Leonardo da Vinci. Este emplazamiento es estratégico, situándose en el "Silicon Valley" andaluz, rodeada de más de 550 empresas     tecnológicas y centros de investigación.
 
 * 💼 **Actividad y Modelo de Negocio:**
 
