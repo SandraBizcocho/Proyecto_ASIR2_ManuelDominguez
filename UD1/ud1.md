@@ -75,14 +75,16 @@
 * ### 💼 Actividad y Modelo de Negocio:
 
      Soltel no es una empresa donde la informática sea un "soporte", sino que la tecnología es su **Core Business**. Se dedica a:
-          - Ingeniería de Sistemas y Cloud: Diseño de arquitecturas híbridas y administración de servidores (Ámbito ASIR).
-          - Desarrollo de Software: Factoría de software y aplicaciones móviles.
-          - I+D+i: Proyectos de Inteligencia Artificial y Big Data aplicados a Smart Cities y Administración Pública (e-Government).
+  
+         - Ingeniería de Sistemas y Cloud: Diseño de arquitecturas híbridas y administración de servidores (Ámbito ASIR).  
+         - Desarrollo de Software: Factoría de software y aplicaciones móviles.  
+         - I+D+i: Proyectos de Inteligencia Artificial y Big Data aplicados a Smart Cities y Administración Pública (e-Government).
 
 
 * ### 🧩 Estructura Organizativa y Rol del Departamento de Sistemas:
 
-     La empresa cuenta con una estructura jerárquica funcional diseñada para la eficiencia técnica. Para este proyecto, nos centramos en el área de Operaciones:  
+     La empresa cuenta con una estructura jerárquica funcional diseñada para la eficiencia técnica. Para este proyecto, nos centramos en el área de Operaciones:
+  
           - Dirección Técnica (CTO): Responsable de la estrategia tecnológica global.  
           - Departamento de Sistemas e Infraestructuras 🖧:  
                - Área de Administración de Sistemas: Encargada del despliegue, mantenimiento y seguridad de servidores (Linux/Windows) y redes.  
