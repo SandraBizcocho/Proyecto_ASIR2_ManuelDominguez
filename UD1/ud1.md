@@ -9,7 +9,7 @@
 
 ## Índice de apartados
 
-- # [ ] **1. Análisis del sector tecnológico**
+- [ ] # **1. Análisis del sector tecnológico**
 
 * Evolución del modelo de infraestructura: Del "On-Premise" a la Nube Híbrida
 
