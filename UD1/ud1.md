@@ -87,8 +87,8 @@
   
      - Dirección Técnica (CTO): Responsable de la estrategia tecnológica global.  
      - Departamento de Sistemas e Infraestructuras 🖧:  
-                 - Área de Administración de Sistemas: Encargada del despliegue, mantenimiento y seguridad de servidores (Linux/Windows) y redes.  
-                 - Área de Cloud & Virtualización: Especialistas en AWS, Azure y tecnologías de orquestación (Kubernetes/Docker).   
+           - Área de Administración de Sistemas: Encargada del despliegue, mantenimiento y seguridad de servidores (Linux/Windows) y redes.  
+           - Área de Cloud & Virtualización: Especialistas en AWS, Azure y tecnologías de orquestación (Kubernetes/Docker).   
      - Centro de Atención a Usuarios (CAU Nivel 2/3): Soporte técnico especializado para incidencias críticas.   
      - Departamento de Ciberseguridad: Transversal a toda la organización, asegura el cumplimiento del **Esquema Nacional de Seguridad (ENS) y la norma ISO 27001.
 
