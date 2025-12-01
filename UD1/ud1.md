@@ -44,17 +44,17 @@
 
   He seleccionado la empresa Soltel Group porque esta compañía es un referente en el sector TIC andaluz, especializada en consultoría, integración de sistemas y transformación digital.
 
-📍 Ubicación y Contexto Geográfico: Aunque la empresa tiene orígenes vinculados al tejido empresarial del Aljarafe (Polígono PISA), su sede central actual se ubica en el Parque Científico y       Tecnológico Cartuja (PCT Cartuja), concretamente en la calle Leonardo da Vinci. Este emplazamiento es estratégico, situándose en el "Silicon Valley" andaluz, rodeada de más de 550 empresas     tecnológicas y centros de investigación.
+📍 Ubicación y Contexto Geográfico: Aunque la empresa tiene orígenes vinculados al tejido empresarial del Aljarafe (Polígono PISA), su sede central actual se ubica en el Parque Científico y         Tecnológico Cartuja (PCT Cartuja), concretamente en la calle Leonardo da Vinci. Este emplazamiento es estratégico, situándose en el "Silicon Valley" andaluz, rodeada de más de 550              empresas tecnológicas y centros de investigación.
 
 * 💼 **Actividad y Modelo de Negocio:**
 
   Soltel no es una empresa donde la informática sea un "soporte", sino que la tecnología es su Core Business. Se dedica a:
 
-    Ingeniería de Sistemas y Cloud: Diseño de arquitecturas híbridas y administración de servidores (Ámbito ASIR).
+    - Ingeniería de Sistemas y Cloud: Diseño de arquitecturas híbridas y administración de servidores (Ámbito ASIR).
 
-    Desarrollo de Software: Factoría de software y aplicaciones móviles.
+    - Desarrollo de Software: Factoría de software y aplicaciones móviles.
 
-    I+D+i: Proyectos de Inteligencia Artificial y Big Data aplicados a Smart Cities y Administración Pública (e-Government).
+    - I+D+i: Proyectos de Inteligencia Artificial y Big Data aplicados a Smart Cities y Administración Pública (e-Government).
 
 * 🧩 **Estructura Organizativa y Rol del Departamento de Sistemas:**
 
@@ -76,16 +76,16 @@
 
   Analizar una empresa de este calibre permite detectar estándares de calidad que luego intentaremos aplicar en nuestro proyecto:
 
-    Fortalezas:
+    - Fortalezas:
 
-        * Alta especialización técnica y uso de metodologías ágiles (Scrum/DevOps).  
-        * Certificaciones de calidad (ISO 9001, ISO 20000, ISO 27001) que obligan a documentar rigurosamente cada proceso.  
-        * Capacidad para asumir proyectos complejos de administración pública y grandes cuentas.
+          * Alta especialización técnica y uso de metodologías ágiles (Scrum/DevOps).  
+          * Certificaciones de calidad (ISO 9001, ISO 20000, ISO 27001) que obligan a documentar rigurosamente cada proceso.  
+          * Capacidad para asumir proyectos complejos de administración pública y grandes cuentas.
 
-    Debilidades (Oportunidades de mejora):
+    - Debilidades (Oportunidades de mejora):
 
-        * Alta rotación de personal técnico: Común en el sector TIC, lo que obliga a tener sistemas muy automatizados para que la marcha de un técnico no pare el servicio.  
-        * Dependencia de proveedores Cloud externos: La gestión de costes en nubes públicas requiere una monitorización constante para evitar sobrecostes.
+          * Alta rotación de personal técnico: Común en el sector TIC, lo que obliga a tener sistemas muy automatizados para que la marcha de un técnico no pare el servicio.  
+          * Dependencia de proveedores Cloud externos: La gestión de costes en nubes públicas requiere una monitorización constante para evitar sobrecostes.
 
 * 🎯 **Justificación de la elección:**
 
