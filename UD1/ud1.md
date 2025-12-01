@@ -34,7 +34,7 @@ La gestión de entornos distribuidos hace insuficiente la monitorización clási
 
 Finalmente, la ciberseguridad se consolida como un pilar estructural ("Security by Design") ante la vulnerabilidad de las PYMEs. La implementación de cortafuegos, segmentación de redes y control de accesos no es solo una medida técnica, sino una obligación legal para cumplir con el RGPD y proteger los datos sensibles de la organización.
 
-[⬆️ Volver al índice de apartados](#indice-de-apartados)
+[⬆️ Volver al índice de apartados](#índice-de-apartados)
     
 # **2. Selección de la empresa o contexto de trabajo**
  Aquí tengo que poner 1 empresa de todas las preestudiadas y poner los motivos de mi elección
