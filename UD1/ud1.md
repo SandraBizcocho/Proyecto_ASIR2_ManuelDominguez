@@ -11,19 +11,19 @@
 
 - [ ] **1. Análisis del sector tecnológico**
 
-1. Evolución del modelo de infraestructura: Del "On-Premise" a la Nube Híbrida
+* Evolución del modelo de infraestructura: Del "On-Premise" a la Nube Híbrida
 
 El sector tecnológico transita del modelo tradicional de hardware local ("On-Premise") hacia la Infraestructura como Servicio (IaaS) y la nube híbrida. Para las PYMEs, externalizar la computación a proveedores Cloud (AWS, VPS) minimiza riesgos físicos y optimiza costes (modelo OPEX), convirtiendo a la virtualización en la solución estándar frente a la inversión en servidores físicos.
 
-2. La revolución de la contenedorización y DevOps
+* La revolución de la contenedorización y DevOps
 
 Paralelamente, la industria evoluciona hacia la contenedorización (Docker, Kubernetes). Esta tecnología permite sustituir sistemas monolíticos por arquitecturas de microservicios portables y escalables. Este enfoque, alineado con la filosofía DevOps, facilita el despliegue de aplicaciones y actualizaciones modulares sin comprometer la continuidad del negocio.
 
-3. La importancia crítica de la "Observabilidad"
+* La importancia crítica de la "Observabilidad"
 
 La gestión de entornos distribuidos hace insuficiente la monitorización clásica. Se impone la observabilidad en tiempo real mediante herramientas como Grafana o Prometheus. La capacidad de gestionar alertas centralizadas y anticiparse a los fallos de recursos (CPU, disco) es hoy un requisito indispensable para garantizar la alta disponibilidad.
 
-4. Ciberseguridad y Normativa en la PYME
+* Ciberseguridad y Normativa en la PYME
 
 Finalmente, la ciberseguridad se consolida como un pilar estructural ("Security by Design") ante la vulnerabilidad de las PYMEs. La implementación de cortafuegos, segmentación de redes y control de accesos no es solo una medida técnica, sino una obligación legal para cumplir con el RGPD y proteger los datos sensibles de la organización.
     
