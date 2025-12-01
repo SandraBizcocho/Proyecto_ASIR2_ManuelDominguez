@@ -92,7 +92,7 @@
           * Certificaciones de calidad (ISO 9001, ISO 20000, ISO 27001) que obligan a documentar rigurosamente cada proceso.  
           * Capacidad para asumir proyectos complejos de administración pública y grandes cuentas.
 
-    - Debilidades (Oportunidades de mejora):
+    - Oportunidades de mejora:
 
           * Alta rotación de personal técnico: Común en el sector TIC, lo que obliga a tener sistemas muy automatizados para que la marcha de un técnico no pare el servicio.  
           * Dependencia de proveedores Cloud externos: La gestión de costes en nubes públicas requiere una monitorización constante para evitar sobrecostes.
