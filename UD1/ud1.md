@@ -21,7 +21,7 @@
 
 * ### 🌐 Evolución del modelo de infraestructura: Del "On-Premise" a la Nube Híbrida.
 
-     >El sector tecnológico transita del modelo tradicional de hardware local ("On-Premise") hacia la **Infraestructura como Servicio (IaaS)** y la nube híbrida. Para las PYMEs, externalizar         la computación a proveedores Cloud (AWS, VPS) minimiza riesgos físicos y optimiza costes (modelo **OPEX**), convirtiendo a la virtualización en la solución estándar frente a la inversión       en servidores físicos.>
+     >El sector tecnológico transita del modelo tradicional de hardware local ("On-Premise") hacia la **Infraestructura como Servicio (IaaS)** y la nube híbrida. Para las PYMEs, externalizar         la computación a proveedores Cloud (AWS, VPS) minimiza riesgos físicos y optimiza costes (modelo **OPEX**), convirtiendo a la virtualización en la solución estándar frente a la inversión       en servidores físicos.
 
 
 * ### 📦 La revolución de la contenedorización y DevOps.
