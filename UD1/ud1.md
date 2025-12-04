@@ -31,29 +31,9 @@
       
 # **1. Análisis del sector tecnológico**
 
+Tras analizar el Informe de Coyuntura Económica de la Cámara de Comercio de Sevilla y los datos del Observatorio de las Ocupaciones del SEPE (2024), concluyo que el sector TIC en nuestra provincia está altamente polarizado. Por un lado, Sevilla actúa como motor tecnológico regional gracias a núcleos como el PCT Cartuja, donde la demanda de perfiles ASIR especializados en Cloud Computing, Ciberseguridad y DevOps es muy alta y continúa creciendo de cara a 2025. Las grandes consultoras locales están migrando masivamente de infraestructuras On-Premise a modelos híbridos (AWS/Azure) y adoptando la contenedorización (Docker/Kubernetes) para ganar agilidad.
 
-* ### 🌐 Evolución del modelo de infraestructura: Del "On-Premise" a la Nube Híbrida.
-
-
-     #### El sector tecnológico transita del modelo tradicional de hardware local ("On-Premise") hacia la **Infraestructura como Servicio (IaaS)** y la nube híbrida. Para las PYMEs,                      externalizar la computación a proveedores Cloud (AWS, VPS) minimiza riesgos físicos y optimiza costes (modelo **OPEX**), convirtiendo a la virtualización en la solución estándar                frente a la inversión en servidores físicos.
-
-
-* ### 📦 La revolución de la contenedorización y DevOps.
-
-
-     #### Paralelamente, la industria evoluciona hacia la **contenedorización (Docker, Kubernetes).** Esta tecnología permite sustituir sistemas monolíticos por arquitecturas de                          **microservicios** portables y escalables. Este enfoque, alineado con la filosofía DevOps, facilita el despliegue de aplicaciones y actualizaciones modulares sin comprometer la                   continuidad del negocio.
-
-
-* ### 📊 La importancia crítica de la "Observabilidad".
-
-
-     #### La gestión de entornos distribuidos hace insuficiente la monitorización clásica. Se impone la observabilidad en tiempo real mediante herramientas como **Grafana** o **Prometheus**.             La capacidad de gestionar alertas centralizadas y anticiparse a los fallos de recursos (CPU, disco) es hoy un requisito indispensable para garantizar la **alta disponibilidad.**
-
-
-* ### 🔐 Ciberseguridad y Normativa en la PYME.
-
-
-     #### Finalmente, la ciberseguridad se consolida como un pilar estructural (**"Security by Design"**) ante la vulnerabilidad de las PYMEs. La implementación de cortafuegos, segmentación              de redes y control de accesos no es solo una medida técnica, sino una obligación legal para cumplir con el **RGPD** y proteger los datos sensibles de la organización.
+Sin embargo, existe una brecha digital significativa en el tejido de PYMES tradicionales de los polígonos industriales sevillanos. Mientras las grandes tecnológicas en Cartuja exportan software, muchas empresas locales carecen de infraestructuras básicas seguras, copias de seguridad automatizadas o cumplimiento normativo (RGPD). Esta dualidad representa una oportunidad laboral inmejorable para mi perfil: existe una necesidad urgente de técnicos que no solo sepan administrar servidores, sino que sean capaces de modernizar estas PYMES introduciendo virtualización, seguridad perimetral y monitorización proactiva (Observabilidad) para garantizar la continuidad de sus negocios.
 
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
