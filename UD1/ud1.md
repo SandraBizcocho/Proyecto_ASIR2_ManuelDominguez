@@ -31,9 +31,9 @@
       
 # **1. Análisis del sector tecnológico**
 
-El sector tecnológico en Sevilla está experimentando una transición acelerada desde el hardware local (On-Premise) hacia la **Nube Híbrida** y la **contenedorización** (Docker/Kubernetes), consolidándose como un motor económico clave ☁️. Los datos más recientes del **Sevilla TechPark (PCT Cartuja)** avalan esta madurez: en 2024 el parque concentró a **575 empresas** que generaron una facturación de 5.513 millones de euros, un impactante 📊 **11,1 % del PIB provincial** y emplearon a más de 12.000 profesionales en áreas de tecnologías avanzadas. Estas cifras confirman que nuestra región dispone de un tejido sofisticado y en expansión donde la especialización en **administración de sistemas (ASIR), ciberseguridad y DevOps** no es solo una opción de futuro, sino una necesidad estructural para sostener el crecimiento de la industria 🚀.
+El sector tecnológico en Sevilla se encuentra en plena transición hacia modelos de **Nube Híbrida** y entornos basados en **contenedores** (Docker/Kubernetes) ☁️. Los datos del **Sevilla TechPark (PCT Cartuja)** confirman esta consolidación: **574 empresas**, **más de 12.000 empleos** y un **11,1 % del PIB provincial** vinculado a tecnologías avanzadas 📊. Este crecimiento evidencia que la demanda de perfiles **ASIR** especializados en **administración de sistemas, ciberseguridad y automatización** seguirá aumentando, ya que las empresas buscan técnicos capaces de gestionar infraestructuras modernas y entornos cloud 🚀.
 
-Analizando el mercado laboral de 2025, Sevilla lidera la demanda digital en Andalucía con cerca de **946 ofertas activas para perfiles técnicos**. Aunque he detectado una clara polarización en el sector ⚖️. Mientras las grandes consultoras absorben la mayor parte del talento, existe una "brecha digital" crítica en las **PYMES tradicionales**, que a menudo carecen de infraestructuras seguras o planes de contingencia 📉. Esta dicotomía representa mi oportunidad estratégica: aunque la competencia en las grandes corporaciones es alta, existe un "océano azul" de necesidades en la pequeña empresa, donde mi perfil puede aportar valor real implementando soluciones profesionales de **monitorización y seguridad** para modernizar negocios que necesitan tecnología para sobrevivir 🛠️💡.
+Aun así, el mercado sevillano muestra una fuerte polarización ⚖️. Mientras las grandes consultoras concentran la mayor parte del talento, muchas PYMES mantienen infraestructuras obsoletas, sin **monitorización, copias de seguridad fiables o seguridad perimetral** 📉. Esta brecha digital abre una oportunidad clara para perfiles ASIR: un espacio poco cubierto donde aportar valor real implementando soluciones profesionales que **modernicen y protejan** a la pequeña empresa sevillana 🛠️💡.
 
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
@@ -118,11 +118,12 @@ Analizando el mercado laboral de 2025, Sevilla lidera la demanda digital en Anda
 ## Enlaces a recursos de la unidad
 
 - [Documentos de la unidad](./documentos/)
-Sevilla TechPark: nuevo nombre del PCT Cartuja y récords económicos en 2024
+
 - [Diagramas e imágenes](./img/)
 
   ## Bibliografía / Webgrafía
-  
+
+- [Sevilla TechPark](https://www.youtube.com/watch?v=HjEJF6tb8hI) 
 - Autor1, Título del libro o artículo, Editorial/Año.
 - Sitio web oficial: [Enlace](https://www.ejemplo.com)
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
