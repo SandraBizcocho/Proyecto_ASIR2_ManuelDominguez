@@ -31,13 +31,13 @@
       
 # **1. Análisis del sector tecnológico**
 
-  El sector tecnológico en Sevilla se encuentra en plena transición hacia modelos de **Nube Híbrida** y entornos basados en **contenedores** (Docker/Kubernetes) ☁️. Los datos del **Sevilla TechPark (PCT Cartuja)** confirman esta consolidación: **575 empresas**, **más de 12.000 empleos** y un **11,1 % del PIB provincial** vinculado a tecnologías avanzadas 📊. Este crecimiento evidencia que la demanda de perfiles **ASIR** especializados en **administración de sistemas, ciberseguridad y automatización** seguirá aumentando, ya que las empresas buscan técnicos capaces de gestionar infraestructuras modernas y entornos cloud 🚀.
+El sector tecnológico en Sevilla se encuentra en plena transición hacia modelos de **Nube Híbrida** y entornos basados en **contenedores** (Docker/Kubernetes) ☁️. Los datos del **Sevilla TechPark (PCT Cartuja)** confirman esta consolidación: **575 empresas**, **más de 12.000 empleos** y un **11,1 % del PIB provincial** vinculado a tecnologías avanzadas 📊. Este crecimiento evidencia que la demanda de perfiles **ASIR** especializados en **administración de sistemas, ciberseguridad y automatización** seguirá aumentando, ya que las empresas buscan técnicos capaces de gestionar infraestructuras modernas y entornos cloud 🚀.
 
   <p align="center">
   <img src="/UD1/img/tabla.png" alt="![tabla](/UD1/img/tabla.png)" />
 </p>
 
-  Aun así, el mercado sevillano muestra una fuerte polarización ⚖️. Mientras las grandes consultoras concentran la mayor parte del talento, muchas PYMES mantienen infraestructuras obsoletas, sin **monitorización, copias de seguridad fiables o seguridad perimetral** 📉. Esta brecha digital abre una oportunidad clara para perfiles ASIR: un espacio poco cubierto donde aportar valor real implementando soluciones profesionales que **modernicen y protejan** a la pequeña empresa sevillana 🛠️💡.
+Aun así, el mercado sevillano muestra una fuerte polarización ⚖️. Mientras las grandes consultoras concentran la mayor parte del talento, muchas PYMES mantienen infraestructuras obsoletas, sin **monitorización, copias de seguridad fiables o seguridad perimetral** 📉. Esta brecha digital abre una oportunidad clara para perfiles ASIR: un espacio poco cubierto donde aportar valor real implementando soluciones profesionales que **modernicen y protejan** a la pequeña empresa sevillana 🛠️💡.
 
  [⬆️ Volver al índice de apartados](#índice-de-apartados)
 
@@ -48,63 +48,9 @@
 
 * ### 🏢 Empresa Seleccionada: Soltel Group (Soluciones Tecnológicas S.L.)
 
-     #### He seleccionado la empresa **Soltel Group** porque esta compañía es un referente en el sector TIC andaluz, especializada en consultoría, integración de sistemas y transformación                digital.
+Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente a Soltel Group, una consultora TIC líder en Andalucía cuya sede central en el PCT Cartuja la ubica en el epicentro de la innovación regional 📍. A diferencia de otros entornos, aquí la tecnología es el núcleo del negocio (Core Business), operando bajo una estructura técnica muy madura dirigida por un CTO y organizada en áreas especializadas de Administración de Sistemas, Cloud & Virtualización y Ciberseguridad 🏢. Analizar esta empresa es clave porque trabajan bajo estándares de exigencia máxima, cumpliendo normativas como el Esquema Nacional de Seguridad (ENS) y la ISO 27001, lo que me ofrece un modelo realista de cómo debe planificarse una infraestructura segura, escalable y alineada con las mejores prácticas del mercado 🛡️.
 
-
-#### 📍  Ubicación y Contexto Geográfico:   
-       Aunque la empresa tiene orígenes vinculados al tejido empresarial del Aljarafe (Polígono PISA), su sede central actual se ubica en el **Parque Científico y Tecnológico Cartuja (PCT             Cartuja)**, concretamente en la calle Leonardo da Vinci. Este emplazamiento es estratégico, situándose en el "Silicon Valley" andaluz, rodeada de más de 550 empresas tecnológicas y             centros de investigación.
-
-
-* ### 💼 Actividad y Modelo de Negocio:
-
-     #### Soltel no es una empresa donde la informática sea un "soporte", sino que la tecnología es su **Core Business**. Se dedica a:
-  
-         - Ingeniería de Sistemas y Cloud: Diseño de arquitecturas híbridas y administración de servidores (Ámbito ASIR).  
-         - Desarrollo de Software: Factoría de software y aplicaciones móviles.  
-         - I+D+i: Proyectos de Inteligencia Artificial y Big Data aplicados a Smart Cities y Administración Pública (e-Government).
-
-
-* ### 🧩 Estructura Organizativa y Rol del Departamento de Sistemas:
-
-     #### La empresa cuenta con una estructura jerárquica funcional diseñada para la eficiencia técnica. Para este proyecto, nos centramos en el área de Operaciones:
-  
-     - #### Dirección Técnica (CTO): Responsable de la estrategia tecnológica global.
-        
-     - #### Departamento de Sistemas e Infraestructuras 🖧:
-       
-          - #### Área de Administración de Sistemas: Encargada del despliegue, mantenimiento y seguridad de servidores (Linux/Windows) y redes.  
-          - #### Área de Cloud & Virtualización: Especialistas en AWS, Azure y tecnologías de orquestación (Kubernetes/Docker).
-            
-     - #### Centro de Atención a Usuarios (CAU Nivel 2/3): Soporte técnico especializado para incidencias críticas.
-        
-     - #### Departamento de Ciberseguridad: Transversal a toda la organización, asegura el cumplimiento del **Esquema Nacional de Seguridad (ENS) y la norma ISO 27001.
-
-
-* ### 🔍 Análisis del entorno de trabajo (Fortalezas y Debilidades):
-
-
-     #### Analizar una empresa de este calibre permite detectar estándares de calidad que luego intentaremos aplicar en nuestro proyecto:
-
-  
-     - #### Fortalezas:
-       
-          * #### ✅ Alta especialización técnica y uso de metodologías ágiles (Scrum/DevOps).
-       
-          * #### ✅ Certificaciones de calidad (ISO 9001, ISO 20000, ISO 27001) que obligan a documentar rigurosamente cada proceso.
-            
-          * #### ✅ Capacidad para asumir proyectos complejos de administración pública y grandes cuentas.
-  
-     - #### Oportunidades de mejora:
-       
-          * #### ⚠️ Alta rotación de personal técnico: Común en el sector TIC, lo que obliga a tener sistemas muy automatizados para que la marcha de un técnico no pare el servicio.
-            
-          * #### ⚠️ Dependencia de proveedores Cloud externos: La gestión de costes en nubes públicas requiere una monitorización constante para evitar sobrecostes.  
-
-
-* ### 🎯 Justificación de la elección:
-
-     #### La elección de **Soltel** como contexto de trabajo sitúa mi perfil técnico en el epicentro de la innovación tecnológica de Sevilla. Este entorno me permite abordar el proyecto desde            la perspectiva de una **consultora experta**, dándome acceso a referencias de herramientas profesionales y protocolos de seguridad rigurosos para auditar y optimizar                            infraestructuras de terceros con garantías de calidad.
-
+En su operativa diaria, el departamento de sistemas se enfrenta a retos críticos del sector, como la gestión eficiente de costes en la nube pública y la alta rotación de personal técnico ⚠️. Para mitigar estos riesgos y garantizar la continuidad del servicio, Soltel prioriza la automatización de procesos, la estandarización y la monitorización continua (Observabilidad) ⚙️. La elección de esta compañía como "espejo" es una decisión estratégica: me permite adoptar la perspectiva de una consultora experta, aprendiendo sus metodologías profesionales para aplicarlas como base sólida en el diseño técnico de mi propia infraestructura, asegurando así calidad y rigor desde el primer momento 🚀💼.
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
 
@@ -137,6 +83,10 @@
 
 - Cámara de Comercio de Sevilla. (2024/2025). Informes de Coyuntura Socioeconómica.  
     🔗 [Acceder al informe del 3er trimestre](https://fundacioncamaradesevilla.com/eventos/527036/)
+
+- Web Corporativa de Soltel - Área de Sistemas (O la web real).
+
+- Esquema Nacional de Seguridad (ENS) - CCN-CERT
   
 - Autor1, Título del libro o artículo, Editorial/Año.
 - Sitio web oficial: [Enlace](https://www.ejemplo.com)
