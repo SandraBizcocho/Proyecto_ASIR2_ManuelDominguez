@@ -35,6 +35,9 @@
 
   Aun así, el mercado sevillano muestra una fuerte polarización ⚖️. Mientras las grandes consultoras concentran la mayor parte del talento, muchas PYMES mantienen infraestructuras obsoletas, sin **monitorización, copias de seguridad fiables o seguridad perimetral** 📉. Esta brecha digital abre una oportunidad clara para perfiles ASIR: un espacio poco cubierto donde aportar valor real implementando soluciones profesionales que **modernicen y protejan** a la pequeña empresa sevillana 🛠️💡.
 
+<p align="center">
+  <img src="/UD1/img/tabla.png" alt="![tabla](/UD1/img/tabla.png)" />
+</p> 
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
 
