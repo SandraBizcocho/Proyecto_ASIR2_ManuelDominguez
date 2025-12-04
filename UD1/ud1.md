@@ -89,8 +89,8 @@ Para garantizar la supervivencia del negocio, es imprescindible abandonar este m
 - Cámara de Comercio de Sevilla. (2024/2025). Informes de Coyuntura Socioeconómica.  
     🔗 [Acceder al informe del 3er trimestre](https://fundacioncamaradesevilla.com/eventos/527036/)
 
-- Web Corporativa de Soltel
+- Web Corporativa de Soltel  
     🔗 [Área de Sistemas](https://www.soltel.es/producto/administracion-de-sistemas-e-infraestructuras/)
         
-- Esquema Nacional de Seguridad (ENS)
+- Esquema Nacional de Seguridad (ENS)  
     🔗 [CCN-CERT](https://ens.ccn.cni.es/es/formacion)
