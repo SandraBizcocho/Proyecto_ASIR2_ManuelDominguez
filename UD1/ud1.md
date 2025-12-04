@@ -57,6 +57,11 @@ En su operativa diaria, el departamento de sistemas se enfrenta a retos crítico
 ---
 
 # **3. Identificación de necesidades tecnológicas**
+
+Analizando el entorno real del taller **Triana Motor**, he detectado un nivel de riesgo tecnológico muy elevado: toda la gestión y facturación del negocio depende exclusivamente de un único ordenador de sobremesa local, lo que constituye un **"Punto Único de Fallo"** (SPOF) inaceptable 📉. No existe presencia digital ni copias de seguridad automatizadas; una simple avería de hardware, un robo o un ataque de Ransomware supondría la **pérdida irrecuperable** de años de información de clientes, paralizando por completo la actividad comercial del taller ⚠️.
+
+Para garantizar la supervivencia del negocio, es imprescindible abandonar este modelo local inseguro y migrar hacia una infraestructura **Cloud**. Mi propuesta técnica consiste en un servidor VPS con Debian ☁️🐧, desplegar una arquitectura de servicios contenerizados (Docker), separando el Servidor Web (visibilidad) de la Base de Datos (PostgreSQL/MariaDB) para proteger la información fuera del local físico. Además, innovar implementando un sistema de observabilidad basado en el Stack TIG (Telegraf, InfluxDB y Grafana), configurado para enviar alertas automáticas ante saturaciones, permitiendo que el taller pase de la nada tecnológica a contar con un entorno profesional, escalable y vigilado en tiempo real con software 100% Open Source 📊🚀.
+
 # **4. Oportunidades y viabilidad del proyecto**
 # **5. Obligaciones legales y normativas**
 # **6. Guion inicial del proyecto**
