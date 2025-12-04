@@ -48,9 +48,9 @@ Aun así, el mercado sevillano muestra una fuerte polarización ⚖️. Mientras
 
 * ### 🏢 Empresa Seleccionada: Soltel Group (Soluciones Tecnológicas S.L.)
 
-Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente a Soltel Group, una consultora TIC líder en Andalucía cuya sede central en el PCT Cartuja la ubica en el epicentro de la innovación regional 📍. A diferencia de otros entornos, aquí la tecnología es el núcleo del negocio (Core Business), operando bajo una estructura técnica muy madura dirigida por un CTO y organizada en áreas especializadas de Administración de Sistemas, Cloud & Virtualización y Ciberseguridad 🏢. Analizar esta empresa es clave porque trabajan bajo estándares de exigencia máxima, cumpliendo normativas como el Esquema Nacional de Seguridad (ENS) y la ISO 27001, lo que me ofrece un modelo realista de cómo debe planificarse una infraestructura segura, escalable y alineada con las mejores prácticas del mercado 🛡️.
+Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente a **Soltel Group**, una consultora TIC líder en Andalucía cuya sede central en el **PCT Cartuja** la ubica en el epicentro de la innovación regional 📍. A diferencia de otros entornos, aquí la tecnología es el núcleo del negocio (Core Business), cuentan con una estructura jerárquica muy madura bajo una Dirección Técnica (CTO) organizada en áreas especializadas de **Administración de Sistemas, Ciberseguridad y Cloud & Virtualización** (AWS/Azure) 🏢. Analizar esta empresa es clave porque trabajan bajo estándares de exigencia máxima, cumpliendo normativas como el **Esquema Nacional de Seguridad (ENS)** y la certificación **ISO 27001**, lo que me ofrece un modelo realista de cómo debe planificarse una infraestructura segura, escalable y alineada con las mejores prácticas del mercado 🛡️.
 
-En su operativa diaria, el departamento de sistemas se enfrenta a retos críticos del sector, como la gestión eficiente de costes en la nube pública y la alta rotación de personal técnico ⚠️. Para mitigar estos riesgos y garantizar la continuidad del servicio, Soltel prioriza la automatización de procesos, la estandarización y la monitorización continua (Observabilidad) ⚙️. La elección de esta compañía como "espejo" es una decisión estratégica: me permite adoptar la perspectiva de una consultora experta, aprendiendo sus metodologías profesionales para aplicarlas como base sólida en el diseño técnico de mi propia infraestructura, asegurando así calidad y rigor desde el primer momento 🚀💼.
+En su operativa diaria, el departamento de sistemas se enfrenta a retos críticos del sector, como la gestión eficiente de costes en la nube pública y la alta rotación de personal técnico ⚠️. Para mitigar estos riesgos y garantizar la continuidad del servicio, Soltel prioriza la **automatización de procesos**, la estandarización y la **monitorización continua** (Observabilidad) ⚙️. La elección de esta compañía como "espejo" es una decisión estratégica: me permite adoptar la perspectiva de una **consultora experta**, aprendiendo sus metodologías profesionales para tener una referencia profesional sólida antes de enfrentarnos al diseño de cualquier solución técnica 🚀💼.
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
 
@@ -84,11 +84,8 @@ En su operativa diaria, el departamento de sistemas se enfrenta a retos crítico
 - Cámara de Comercio de Sevilla. (2024/2025). Informes de Coyuntura Socioeconómica.  
     🔗 [Acceder al informe del 3er trimestre](https://fundacioncamaradesevilla.com/eventos/527036/)
 
-- Web Corporativa de Soltel - Área de Sistemas (O la web real).
-
-- Esquema Nacional de Seguridad (ENS) - CCN-CERT
-  
-- Autor1, Título del libro o artículo, Editorial/Año.
-- Sitio web oficial: [Enlace](https://www.ejemplo.com)
-- Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
-
+- Web Corporativa de Soltel
+    🔗 [Área de Sistemas](https://www.soltel.es/producto/administracion-de-sistemas-e-infraestructuras/)
+        
+- Esquema Nacional de Seguridad (ENS)
+    🔗 [CCN-CERT](https://ens.ccn.cni.es/es/formacion)
