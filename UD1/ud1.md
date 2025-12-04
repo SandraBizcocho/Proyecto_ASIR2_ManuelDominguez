@@ -31,7 +31,7 @@
       
 # **1. Análisis del sector tecnológico**
 
-El sector tecnológico en Sevilla se encuentra en plena transición hacia modelos de **Nube Híbrida** y entornos basados en **contenedores** (Docker/Kubernetes) ☁️. Los datos del **Sevilla TechPark (PCT Cartuja)** confirman esta consolidación: **574 empresas**, **más de 12.000 empleos** y un **11,1 % del PIB provincial** vinculado a tecnologías avanzadas 📊. Este crecimiento evidencia que la demanda de perfiles **ASIR** especializados en **administración de sistemas, ciberseguridad y automatización** seguirá aumentando, ya que las empresas buscan técnicos capaces de gestionar infraestructuras modernas y entornos cloud 🚀.
+El sector tecnológico en Sevilla se encuentra en plena transición hacia modelos de **Nube Híbrida** y entornos basados en **contenedores** (Docker/Kubernetes) ☁️. Los datos del **Sevilla TechPark (PCT Cartuja)** confirman esta consolidación: **575 empresas**, **más de 12.000 empleos** y un **11,1 % del PIB provincial** vinculado a tecnologías avanzadas 📊. Este crecimiento evidencia que la demanda de perfiles **ASIR** especializados en **administración de sistemas, ciberseguridad y automatización** seguirá aumentando, ya que las empresas buscan técnicos capaces de gestionar infraestructuras modernas y entornos cloud 🚀.
 
 Aun así, el mercado sevillano muestra una fuerte polarización ⚖️. Mientras las grandes consultoras concentran la mayor parte del talento, muchas PYMES mantienen infraestructuras obsoletas, sin **monitorización, copias de seguridad fiables o seguridad perimetral** 📉. Esta brecha digital abre una oportunidad clara para perfiles ASIR: un espacio poco cubierto donde aportar valor real implementando soluciones profesionales que **modernicen y protejan** a la pequeña empresa sevillana 🛠️💡.
 
@@ -121,9 +121,17 @@ Aun así, el mercado sevillano muestra una fuerte polarización ⚖️. Mientras
 
 - [Diagramas e imágenes](./img/)
 
-  ## Bibliografía / Webgrafía
+## Bibliografía / Webgrafía
 
-- [Sevilla TechPark](https://www.youtube.com/watch?v=HjEJF6tb8hI) 
+
+- Servicio Público de Empleo Estatal (SEPE). (2024). Informes anuales del mercado de trabajo provincial: Sevilla. Ministerio de Trabajo y Economía Social.
+    🔗 [Acceder al informe oficial del SEPE](https://www.sepe.es/HomeSepe/que-es-observatorio/informes-anuales-mercado-trabajo-provincial-municipal/informes-provincia/ver-resultados.html?documentType=informes&tipo=9&ambito=Provincial&provincia=41)
+  
+- Parque Científico y Tecnológico Cartuja (Sevilla TechPark). (2025). Informe de Evolución y Desarrollo Tecnológico y Económico. Junta de Andalucía.
+    🔗 [Acceder a la sección de Informes y Memorias](https://sevillatechpark.es/sevilla-techpark/#en-cifras)
+  *(Nota: Fuente de los datos de facturación y empleo del parque).*
+- 🔗 [Sevilla TechPark](https://www.youtube.com/watch?v=HjEJF6tb8hI)
+  
 - Autor1, Título del libro o artículo, Editorial/Año.
 - Sitio web oficial: [Enlace](https://www.ejemplo.com)
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
