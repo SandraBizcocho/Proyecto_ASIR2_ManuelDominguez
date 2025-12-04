@@ -16,7 +16,7 @@
 
 ## Índice del proyecto
 
-### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./UD1/ud1.md) Tengo que poner mis propias conclusiones sobre el estudio realizado
+### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./UD1/ud1.md)   
 1. Análisis del sector tecnológico    
 2. Selección de la empresa o contexto de trabajo  
 3. Identificación de necesidades tecnológicas  
