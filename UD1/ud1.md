@@ -23,10 +23,10 @@
 # Índice de apartados
 - [ ] [1. Análisis del sector tecnológico.](#1-análisis-del-sector-tecnológico)
 - [ ] [2. Selección de la empresa o contexto de trabajo.](#2-selección-de-la-empresa-o-contexto-de-trabajo)
-- [ ] 3. Identificación de necesidades tecnológicas.
-- [ ] 4. Oportunidades y viabilidad del proyecto.
-- [ ] 5. Obligaciones legales y normativas.
-- [ ] 6. Guion inicial del proyecto.
+- [ ] [3. Identificación de necesidades tecnológicas.]
+- [ ] [4. Oportunidades y viabilidad del proyecto.]
+- [ ] [5. Obligaciones legales y normativas.]
+- [ ] [6. Guion inicial del proyecto.]
 
       
 # **1. Análisis del sector tecnológico**
@@ -129,8 +129,11 @@ Aun así, el mercado sevillano muestra una fuerte polarización ⚖️. Mientras
   
 - Parque Científico y Tecnológico Cartuja (Sevilla TechPark). (2025). Informe de Evolución y Desarrollo Tecnológico y Económico. Junta de Andalucía.  
     🔗 [Acceder a la sección de Informes y Memorias](https://sevillatechpark.es/sevilla-techpark/#en-cifras)  
-  *(Nota: Fuente de los datos de facturación y empleo del parque).*  
-- 🔗 [Sevilla TechPark](https://www.youtube.com/watch?v=HjEJF6tb8hI)
+    🔗 [Sevilla TechPark](https://www.youtube.com/watch?v=HjEJF6tb8hI)  
+    *(Nota: Fuente de los datos de facturación y empleo del parque).*
+
+- Cámara de Comercio de Sevilla. (2024/2025). Informes de Coyuntura Socioeconómica.  
+    🔗 [Acceder al informe del 3er trimestre](https://fundacioncamaradesevilla.com/eventos/527036/)
   
 - Autor1, Título del libro o artículo, Editorial/Año.
 - Sitio web oficial: [Enlace](https://www.ejemplo.com)
