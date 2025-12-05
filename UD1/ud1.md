@@ -66,7 +66,18 @@ Analizando el entorno real del taller **Triana Motor**, he detectado un nivel de
 
 Para garantizar la supervivencia del negocio, es imprescindible abandonar este modelo local inseguro y migrar hacia una infraestructura **Cloud**. Mi propuesta técnica consiste en un servidor **VPS con Debian** ☁️🐧, desplegar una arquitectura de servicios contenerizados 📦 (**Docker**), separando el Servidor Web 🖥️ (visibilidad) de la Base de Datos 🗄️ (**PostgreSQL/MariaDB**) para proteger la información fuera del local físico. Además, innovar implementando un sistema de observabilidad basado en el Stack TIG (**Telegraf, InfluxDB y Grafana**), configurado para enviar **alertas automáticas ante saturaciones**, permitiendo que el taller pase de la nada tecnológica a contar con un entorno profesional, escalable y vigilado en tiempo real con software **100% Open Source** 📊🚀.
 
+---
+
 # **4. Oportunidades y viabilidad del proyecto**
+
+La viabilidad económica de esta propuesta es incuestionable, ya que se puede transformar una situación de riesgo crítico en una inversión estratégica de bajo coste 📉➡️📈. Al adoptar un modelo Cloud (IaaS) y utilizar exclusivamente software gratuito, se elimina la barrera inicial que supondría la compra de servidores físicos (CAPEX 🏗️), sustituyéndola por un coste operativo (OPEX) mínimo 💸. El beneficio principal es la continuidad del negocio: implementar un "seguro de vida digital" 🛡️ que garantice que los datos históricos de facturación y clientes estén blindados ante robos, fallos o averías, aportando una resiliencia profesional por una fracción del coste que supondría una parada técnica del taller 🛑🔧.
+
+Desde la perspectiva técnica, la viabilidad se refuerza mediante el uso de herramientas modernas, ligeras y gratuitas para entornos con recursos limitados ⚡. Para la monitorización trataré de innovar proponiendo el Stack TIG (Telegraf + InfluxDB + Grafana), donde Telegraf actúa como un agente recolector ultraligero e InfluxDB almacena las series temporales con alta eficiencia 🗄️👀. Esta arquitectura demuestra que es posible desplegar un sistema de monitorización de nivel empresarial en un entorno pequeño, garantizando escalabilidad, robustez y cero costes en licencias 🚫, lo que convierte el proyecto en una solución totalmente realista, segura y sostenible a largo plazo 🚀🔒.
+
+[⬆️ Volver al índice de apartados](#índice-de-apartados)
+
+---
+
 # **5. Obligaciones legales y normativas**
 # **6. Guion inicial del proyecto**
 
