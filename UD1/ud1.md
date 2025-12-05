@@ -66,7 +66,8 @@ Para garantizar la supervivencia del negocio, es imprescindible abandonar este m
 # **5. Obligaciones legales y normativas**
 # **6. Guion inicial del proyecto**
 
- 
+
+ [⬆️ Volver al índice de apartados](#índice-de-apartados) 
 
 
 ## Enlaces a recursos de la unidad
