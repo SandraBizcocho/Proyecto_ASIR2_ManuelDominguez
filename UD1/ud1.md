@@ -45,14 +45,14 @@ Aun así, el mercado sevillano muestra una fuerte polarización 📊. Mientras l
 
 # **2. Selección de la empresa o contexto de trabajo**
 
-<p align="center">
-  <img src="/UD1/img/soltel.jpeg" alt="soltel" width="400" height="300">
-</p>
-
 
 * ### 🏢 Empresa Seleccionada: Soltel Group (Soluciones Tecnológicas S.L.)
 
 Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente a **Soltel Group**, una consultora TIC líder en Andalucía cuya sede central en el **PCT Cartuja** la ubica en el epicentro de la innovación regional 📍. A diferencia de otros entornos, aquí la tecnología es el núcleo del negocio (Core Business), cuentan con una estructura jerárquica muy madura bajo una Dirección Técnica (CTO) organizada en áreas especializadas de **Administración de Sistemas, Ciberseguridad y Cloud & Virtualización** (AWS/Azure) 🏢. Analizar esta empresa es clave porque trabajan bajo estándares de exigencia máxima, cumpliendo normativas como el **Esquema Nacional de Seguridad (ENS)** y la certificación **ISO 27001**, lo que me ofrece un modelo realista de cómo debe planificarse una infraestructura segura, escalable y alineada con las mejores prácticas del mercado 🛡️.
+
+<p align="center">
+  <img src="/UD1/img/soltel.jpeg" alt="soltel" width="400" height="300">
+</p>
 
 En su operativa diaria, el departamento de sistemas se enfrenta a retos críticos del sector, como la gestión eficiente de costes en la nube pública y la alta rotación de personal técnico ⚠️. Para mitigar estos riesgos y garantizar la continuidad del servicio, Soltel prioriza la **automatización de procesos**, la estandarización y la **monitorización continua** (Observabilidad) ⚙️. La elección de esta compañía como "espejo" es una decisión estratégica: me permite adoptar la perspectiva de una **consultora experta**, aprendiendo sus metodologías profesionales para tener una referencia profesional sólida antes de enfrentarnos al diseño de cualquier solución técnica 🚀💼.
 
