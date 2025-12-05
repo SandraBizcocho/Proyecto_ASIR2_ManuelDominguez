@@ -45,6 +45,10 @@ Aun así, el mercado sevillano muestra una fuerte polarización 📊. Mientras l
 
 # **2. Selección de la empresa o contexto de trabajo**
 
+<p align="center">
+  <img src="/UD1/img/soltel.jpeg" alt="![soltel](/UD1/img/soltel.jpeg)" />
+  <img src="/UD1/img/soltel2.jpeg" alt="![soltel2](/UD1/img/soltel2.jpeg)" />
+</p>  
 
 * ### 🏢 Empresa Seleccionada: Soltel Group (Soluciones Tecnológicas S.L.)
 
