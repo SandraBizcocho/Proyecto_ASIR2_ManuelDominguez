@@ -138,10 +138,10 @@ Finalmente, cumplimos con el **RD 488/1997 de Prevención de Riesgos Laborales (
 - Google Cloud Partner  
     🔗 [Perfil oficial de Partner](https://cloud.google.com/find-a-partner/partner/emergya-digital)
 
-- Cultura "People" Emergya
-    🔗 [Emergya Careers](https://www.emergya.com/es/trabaja-con-nosotros)
+- Cultura "People" Emergya  
+    🔗 [Emergya Careers](https://www.emergya.com/es/trabaja-con-nosotros)  
 
-- Funtes Oficiales Normativas:
-    🔗 [RD 488/1997 (Pantallas)](https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669)  
-    🔗 [Licencia AGPLv3 de Grafana](https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/)
+- Funtes Oficiales Normativas:  
+    🔗 [RD 488/1997 (Pantallas)](https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669)    
+    🔗 [Licencia AGPLv3 de Grafana](https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/)  
     🔗 [ENS (Esquema Nacional de Seguridad)](https://www.ccn-cert.cni.es/es/series-ccn-stic/documentos-publicos/ens/2449-femp-ens-tomo-1-guia-estrategica-en-seguridad-para-entidades-locales/file.html)
