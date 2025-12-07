@@ -52,6 +52,7 @@ Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente
 
 <p align="center">
   <img src="/UD1/img/emergya.jpeg" alt="emergya" width="400" height="400">
+  <img src="/UD1/img/emergya2.webp" alt="emergya2" width="400" height="400">
 </p>
 
 Se dedican a **Cloud & Infraestructuras**. Son Premier Partner de Google Cloud, ayudando a grandes organizaciones a migrar sus servidores físicos a la nuble. Proporcionan soluciones digitales desarrollando plataformas web para el sector público. Utilizan la inteligencia artifical. Trabajan con estándares como Apache/Nginx, bases de datos PostgreSQL y MySQL, Python, Docker y Kubernetes.
