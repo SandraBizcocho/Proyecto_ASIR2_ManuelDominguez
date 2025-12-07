@@ -45,15 +45,16 @@ Aun así, el mercado sevillano muestra una fuerte polarización 📊. Mientras l
 
 # **2. Selección de la empresa o contexto de trabajo**
 
-* ### 🏢 Empresa Seleccionada: Soltel Group (Soluciones Tecnológicas S.L.)
+* ### 🏢 Empresa Seleccionada: Emergya
 
-Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente a **Soltel Group**, una consultora TIC líder en Andalucía cuya sede central en el **PCT Cartuja** la ubica en el epicentro de la innovación regional 📍. A diferencia de otros entornos, aquí la tecnología es el núcleo del negocio (Core Business), cuentan con una estructura jerárquica muy madura bajo una Dirección Técnica (CTO) organizada en áreas especializadas de **Administración de Sistemas, Ciberseguridad y Cloud & Virtualización** (AWS/Azure) 🏢. Analizar esta empresa es clave porque trabajan bajo estándares de exigencia máxima, cumpliendo normativas como el **Esquema Nacional de Seguridad (ENS)** y la certificación **ISO 27001**, lo que me ofrece un modelo realista de cómo debe planificarse una infraestructura segura, escalable y alineada con las mejores prácticas del mercado 🛡️.
+Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente a **Emergya**, una empresa sita en Nervión que fue comprada por Ayesa hace sólo un año. Lo que me llama la atención de esta empresa es que, dedicándose a un mundo tan digital, su ADN está basado en el cuidado y satisfacción de su **personal** y el **Software Libre**. Su lema es *Digital & People* ❤️. Sus orígenes están ligados a Guadalinex (el desarrollo de Linux 🐧 en Andalucía). Priorizan el talento dando formación continua a sus empleados, para que sigan desarrollándose personal y profesionalmente, lo que consigue que esta empresa esté alejada del modelo de "rotación masiva" típico del sector.
+
 
 <p align="center">
-  <img src="/UD1/img/soltel.jpeg" alt="soltel" width="400" height="400">
+  <img src="/UD1/img/emergya.jpeg" alt="emergya" width="400" height="400">
 </p>
 
-En su operativa diaria, el departamento de sistemas se enfrenta a retos críticos del sector, como la gestión eficiente de costes en la nube pública y la alta rotación de personal técnico ⚠️. Para mitigar estos riesgos y garantizar la continuidad del servicio, Soltel prioriza la **automatización de procesos**, la estandarización y la **monitorización continua** (Observabilidad) ⚙️. La elección de esta compañía como "espejo" es una decisión estratégica: me permite adoptar la perspectiva de una **consultora experta**, aprendiendo sus metodologías profesionales para tener una referencia profesional sólida antes de enfrentarnos al diseño de cualquier solución técnica 🚀💼.
+Se dedican a **Cloud & Infraestructuras**. Son Premier Partner de Google Cloud, ayudando a grandes organizaciones a migrar sus servidores físicos a la nuble. Proporcionan soluciones digitales desarrollando plataformas web para el sector público. Utilizan la inteligencia artifical. Trabajan con estándares como Apache/Nginx, bases de datos PostgreSQL y MySQL, Python, Docker y Kubernetes.
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
 
