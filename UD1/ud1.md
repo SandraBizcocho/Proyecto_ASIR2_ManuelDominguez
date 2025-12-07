@@ -26,7 +26,7 @@
 - [ ] [3. Identificación de necesidades tecnológicas.](#3-identificación-de-necesidades-tecnológicas)
 - [ ] [4. Oportunidades y viabilidad del proyecto.](#4-oportunidades-y-viabilidad-del-proyecto)
 - [ ] [5. Obligaciones legales y normativas.](#5-obligaciones-legales-y-normativas)
-- [ ] [6. Guion inicial del proyecto.]
+- [ ] [6. Guion inicial del proyecto.](#6-guion-inicial-del-proyecto)
 
       
 # **1. Análisis del sector tecnológico**
@@ -106,7 +106,101 @@ Finalmente, cumplimos con el **RD 488/1997 de Prevención de Riesgos Laborales (
  
 # **6. Guion inicial del proyecto**
 
+A continuación detallo la hoja de ruta técnica para la ejecución del proyecto **Observabilidad Híbrida con Stack TIG en Emergya**, estructurada en cuatro fases secuenciales que garantizan el control del ciclo de vida del dato y la seguridad de la infraestructura.
 
+**FASE 1: ARQUITECTURA Y DISEÑO 🏗️**
+
+El objetivo de esta fase es establecer los cimientos lógicos del proyecto antes de desplegar cualquier activo.
+
+  * **Auditoría de Activos:** Realización de un inventario exhaustivo de los servidores Legacy (On-Premise) y los recursos Cloud (Google Cloud Platform) de Emergya para identificar los puntos críticos de monitorización.
+
+  * **Diseño de Red Segura:** Definición de la segmentación de red para aislar el tráfico de monitorización y diseño de las reglas de Firewall para proteger el entorno.
+
+  * **Selección de Software:** Validación de las versiones Open Source (OSS) del Stack TIG (Telegraf, InfluxDB, Grafana) para asegurar la compatibilidad con el sistema base.
+
+**FASE 2: APROVISIONAMIENTO E INFRAESTRUCTURA ☁️**
+
+En esta etapa despliego la base tecnológica sobre la que correrán los servicios.
+
+  * **Servidor (VPS):** Despliegue de un Servidor Privado Virtual con sistema operativo Debian 12 (Bookworm) priorizando la estabilidad y el soporte a largo plazo.
+
+  * **Hardening de Seguridad:** Aplicación de medidas de endurecimiento del sistema incluyendo autenticación por SSH y configuración contra intrusiones.
+
+  * **Capa de Contenedores:** Instalación y configuración de **Docker Engine** y **Docker Compose** creando redes internas (Bridge Networks) para aislar los servicios.
+
+  * **Persistencia de Datos:** Configuración de volúmenes cifrados para la base de datos **InfluxDB** (series temporales) y **PostgreSQL** (gestión de usuarios) garantizando la integridad de la información ante reinicios.
+
+**FASE 3: IMPLEMENTACIÓN DEL STACK (EL CEREBRO) ⚙️**
+
+Fase central donde se configura la lógica de la observabilidad.
+
+  * **Recolección (Telegraf):** Despliegue del agente recolector y configuración de inputs para monitorizar métricas de sistema (CPU, RAM, Disco) y servicios web (Nginx). 
+
+  * **Almacenamiento (InfluxDB):** Configuración de las Políticas de Retención para gestionar el ciclo de vida de los datos y gestión de Tokens de seguridad para el acceso a la API.
+
+  * **Visualización (Grafana):** Conexión segura con las fuentes de datos, diseño de Dashboards con ergonomía visual ("Modo Oscuro") y configuración de un sistema de Alertas Inteligentes vía Telegram/Email para evitar la fatiga de alertas.
+
+**FASE 4: VALIDACIÓN Y CIERRE 📝**
+
+Etapa final para asegurar la calidad y el cumplimiento normativo.
+
+  * **Auditoría de Cumplimiento:** Verificación técnica del cifrado de datos personales para cumplir con el RGPD y revisión de las licencias de software.
+
+  * **Pruebas de Estrés:** Ejecución de simulacros de caída de servicios para validar la respuesta automática del sistema de alertas.
+
+  * **Documentación Final:** Elaboración del "Manual de Despliegue" y la "Guía de Usuario" para facilitar la transferencia de conocimiento al equipo técnico de Emergya.
+
+📂 PROYECTO: OBSERVABILIDAD HÍBRIDA (STACK TIG) - EMERGYA
+│
+├── 🏗️ FASE 1: ARQUITECTURA Y DISEÑO
+│   ├── 🔍 Auditoría de Activos
+│   │   ├── Inventariado de servidores Legacy (On-Premise)
+│   │   └── Análisis de recursos Cloud (Google Cloud)
+│   │
+│   ├── 📐 Diseño de Red
+│   │   ├── Segmentación de tráfico de monitorización
+│   │   └── Definición de reglas de Firewall 
+│   │
+│   └── 📦 Selección de Software
+│       └── Validación de versiones OSS (Telegraf, InfluxDB, Grafana)
+│
+├── ☁️ FASE 2: APROVISIONAMIENTO E INFRAESTRUCTURA
+│   ├── 🐧 Servidor Core
+│   │   ├── Despliegue de VPS con Debian 12 (Bookworm)
+│   │   └── Hardening de seguridad (SSH)
+│   │
+│   ├── 🐳 Capa de Contenedores
+│   │   ├── Instalación de Docker Engine & Docker Compose
+│   │   └── Creación de redes internas (Bridge Network)
+│   │
+│   └── 💾 Persistencia de Datos
+│       ├── Volúmenes cifrados para InfluxDB (Series Temporales)
+│       └── PostgreSQL para gestión de usuarios
+│
+├── ⚙️ FASE 3: IMPLEMENTACIÓN DEL STACK TIG
+│   ├── 📡 Recolección (Telegraf)
+│   │   └── Configuración de inputs (CPU, RAM, Disco, Nginx)
+│   │
+│   ├── 🗄️ Almacenamiento (InfluxDB)
+│   │   ├── Configuración de retención de datos
+│   │   └── Token management para seguridad
+│   │
+│   └── 🖥️ Visualización (Grafana)
+│       ├── Conexión segura con Data Sources
+│       ├── Diseño de Dashboards "Modo Oscuro" (Ergonomía)
+│       └── Sistema de Alertas Inteligentes (Telegram/Email)
+│
+└── 📝 FASE 4: VALIDACIÓN Y CIERRE
+    ├── 🛡️ Auditoría de Cumplimiento
+    │   ├── Verificación de cifrado (RGPD)
+    │   └── Revisión de licencias (Compliance)
+    │
+    ├── 💣 Pruebas de Estrés
+    │   └── Simulación de caída de servicios y respuesta de alertas
+    │
+    └── 📄 Documentación Final
+        ├── Manual de Despliegue
+        └── Guía de Usuario para técnicos de Emergya
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados) 
 
