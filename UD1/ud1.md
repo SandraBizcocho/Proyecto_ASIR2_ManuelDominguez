@@ -85,12 +85,25 @@ Desde el punto de vista técnico, el proyecto es altamente viable y estratégico
 
 # **5. Obligaciones legales y normativas**
 
+El despliegue en **Emergya** exige un estricto cumplimiento del **Esquema Nacional de Seguridad (ENS)** al operar infraestructuras críticas para la Administración Pública, cumpliendo rigurosamente sus principios de confidencialidad, integridad, disponibilidad y trazabilidad 🛡️. La centralización de logs y métricas conlleva el tratamiento de datos personales (direcciones IP, identificadores de usuario), lo que activa el cumplimiento del **RGPD** y la **LOPD-GDD** ⚖️. Esto exige aplicar medidas técnicas concretas, como el cifrado de datos en reposo en la base de datos, controles de acceso basados en roles (RBAC) y la firma de acuerdos de confidencialidad por parte del personal técnico con acceso a los paneles.
+
+En materia de Propiedad Intelectual, el uso del **Stack TIG** requiere respetar un marco de licencias mixtas 🐧📄:
+
+* Telegraf: Se distribuye bajo licencia permisiva MIT.  
+* InfluxDB OSS: Utiliza una combinación de licencia MIT para el motor y EULA para ciertos componentes.  
+* Grafana: Se rige por la licencia AGPLv3. Esta licencia obligaría a publicar el código si redistribuyéramos una versión modificada; sin embargo, al utilizar la herramienta sin alteraciones de código fuente, operamos dentro de la legalidad sin generar obligaciones adicionales.
+
+Finalmente, cumplimos con el **RD 488/1997 de Prevención de Riesgos Laborales (PRL)** aplicando medidas de ergonomía digital, como el uso de "Modos Oscuros" y alertas inteligentes para reducir la fatiga visual y operativa del equipo técnico 🖥️👀.
 
 
+[⬆️ Volver al índice de apartados](#índice-de-apartados)
+
+---
+ 
 # **6. Guion inicial del proyecto**
 
 
- [⬆️ Volver al índice de apartados](#índice-de-apartados) 
+[⬆️ Volver al índice de apartados](#índice-de-apartados) 
 
 
 ## Enlaces a recursos de la unidad
