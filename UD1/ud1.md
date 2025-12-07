@@ -45,7 +45,11 @@ Aun así, el mercado sevillano muestra una fuerte polarización 📊. Mientras l
 
 # **2. Selección de la empresa o contexto de trabajo**
 
-* ### 🏢 Empresa Seleccionada: Emergya <img src="/UD1/img/emergya.jpeg" alt="emergya" width="200" height="200">
+<p align="center">
+  <img src="/UD1/img/emergya.jpeg" alt="emergya" width="500" height="500">
+</p>
+
+* ### 🏢 Empresa Seleccionada: Emergya 
 
 Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente a **Emergya**, una empresa tecnológica ubicada en Nervión (Sevilla) que fue comprada por el grupo **Ayesa** 🏢 hace sólo un año. Lo que más me ha llamado la atención de esta compañía es que, dedicándose a un mundo digital tan exigente, su ADN sigue fundamentado en el **Software Libre** (con orígenes ligados a Guadalinex 🐧) y en el cuidado de su equipo bajo el lema *Digital & People* ❤️. Emergya prioriza el talento ofreciendo formación continua a sus empleados, para que sigan desarrollándose personal y profesionalmente, lo que consigue que esta empresa esté alejada del modelo de "rotación masiva" típico del sector y que disponga de un entorno de trabajo estable y motivador 🤝.
 
