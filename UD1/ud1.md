@@ -152,7 +152,7 @@ Etapa final para asegurar la calidad y el cumplimiento normativo.
 
 📂 PROYECTO: OBSERVABILIDAD HÍBRIDA (STACK TIG) - EMERGYA  
 │
-├── 🏗️ FASE 1: ARQUITECTURA Y DISEÑO  
+├─ 🏗️ FASE 1: ARQUITECTURA Y DISEÑO  
 │   ├── 🔍 Auditoría de Activos  
 │   │   ├── Inventariado de servidores Legacy (On-Premise)  
 │   │   └── Análisis de recursos Cloud (Google Cloud)  
@@ -164,7 +164,7 @@ Etapa final para asegurar la calidad y el cumplimiento normativo.
 │   └── 📦 Selección de Software  
 │       └── Validación de versiones OSS (Telegraf, InfluxDB, Grafana)  
 │  
-├── ☁️ FASE 2: APROVISIONAMIENTO E INFRAESTRUCTURA  
+├─ ☁️ FASE 2: APROVISIONAMIENTO E INFRAESTRUCTURA  
 │   ├── 🐧 Servidor Core  
 │   │   ├── Despliegue de VPS con Debian 12 (Bookworm)  
 │   │   └── Hardening de seguridad (SSH)  
@@ -177,7 +177,7 @@ Etapa final para asegurar la calidad y el cumplimiento normativo.
 │       ├── Volúmenes cifrados para InfluxDB (Series Temporales)  
 │       └── PostgreSQL para gestión de usuarios  
 │  
-├── ⚙️ FASE 3: IMPLEMENTACIÓN DEL STACK TIG  
+├─ ⚙️ FASE 3: IMPLEMENTACIÓN DEL STACK TIG  
 │   ├── 📡 Recolección (Telegraf)  
 │   │   └── Configuración de inputs (CPU, RAM, Disco, Nginx)  
 │   │  
@@ -190,7 +190,7 @@ Etapa final para asegurar la calidad y el cumplimiento normativo.
 │       ├── Diseño de Dashboards "Modo Oscuro" (Ergonomía)  
 │       └── Sistema de Alertas Inteligentes (Telegram/Email)  
 │  
-└── 📝 FASE 4: VALIDACIÓN Y CIERRE  
+└─ 📝 FASE 4: VALIDACIÓN Y CIERRE  
     ├── 🛡️ Auditoría de Cumplimiento  
     │   ├── Verificación de cifrado (RGPD)  
     │   └── Revisión de licencias (Compliance)  
