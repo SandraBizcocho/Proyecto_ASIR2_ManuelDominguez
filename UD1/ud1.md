@@ -105,8 +105,11 @@ Desde la perspectiva técnica, la viabilidad se refuerza mediante el uso de herr
 - Cámara de Comercio de Sevilla. (2024/2025). Informes de Coyuntura Socioeconómica.  
     🔗 [Acceder al informe del 3er trimestre](https://fundacioncamaradesevilla.com/eventos/527036/)
 
-- Web Corporativa de Soltel  
-    🔗 [Área de Sistemas](https://www.soltel.es/producto/administracion-de-sistemas-e-infraestructuras/)
+- Web Corporativa de Emergya  
+    🔗 [Área de Trabajo](https://www.emergya.com/es/efecto-emergya))
         
-- Esquema Nacional de Seguridad (ENS)  
-    🔗 [CCN-CERT](https://ens.ccn.cni.es/es/formacion)
+- Google Cloud Partner  
+    🔗 [Perfil oficial de Partner](https://cloud.google.com/find-a-partner/partner/emergya-digital)
+
+- Cultura "People" Emergya
+    🔗 [Emergya Careers](https://www.emergya.com/es/trabaja-con-nosotros)
