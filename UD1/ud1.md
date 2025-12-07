@@ -154,53 +154,53 @@ Etapa final para asegurar la calidad y el cumplimiento normativo.
 │
 ├─ 🏗️ FASE 1: ARQUITECTURA Y DISEÑO  
 │   ├──── 🔍 Auditoría de Activos  
-│   │   ├──── Inventariado de servidores Legacy (On-Premise)  
-│   │   └──── Análisis de recursos Cloud (Google Cloud)  
+│   │   ├────── Inventariado de servidores Legacy (On-Premise)  
+│   │   └────── Análisis de recursos Cloud (Google Cloud)  
 │   │  
 │   ├──── 📐 Diseño de Red  
-│   │   ├──── Segmentación de tráfico de monitorización  
-│   │   └──── Definición de reglas de Firewall   
+│   │   ├────── Segmentación de tráfico de monitorización  
+│   │   └────── Definición de reglas de Firewall   
 │   │  
 │   └──── 📦 Selección de Software  
-│       └──── Validación de versiones OSS (Telegraf, InfluxDB, Grafana)  
+│       └────── Validación de versiones OSS (Telegraf, InfluxDB, Grafana)  
 │  
 ├─ ☁️ FASE 2: APROVISIONAMIENTO E INFRAESTRUCTURA  
 │   ├──── 🐧 Servidor Core  
-│   │   ├──── Despliegue de VPS con Debian 12 (Bookworm)  
-│   │   └──── Hardening de seguridad (SSH)  
+│   │   ├────── Despliegue de VPS con Debian 12 (Bookworm)  
+│   │   └────── Hardening de seguridad (SSH)  
 │   │  
 │   ├──── 🐳 Capa de Contenedores  
-│   │   ├──── Instalación de Docker Engine & Docker Compose  
-│   │   └──── Creación de redes internas (Bridge Network)  
+│   │   ├────── Instalación de Docker Engine & Docker Compose  
+│   │   └────── Creación de redes internas (Bridge Network)  
 │   │  
 │   └──── 💾 Persistencia de Datos  
-│       ├──── Volúmenes cifrados para InfluxDB (Series Temporales)  
-│       └──── PostgreSQL para gestión de usuarios  
+│       ├────── Volúmenes cifrados para InfluxDB (Series Temporales)  
+│       └────── PostgreSQL para gestión de usuarios  
 │  
 ├─ ⚙️ FASE 3: IMPLEMENTACIÓN DEL STACK TIG  
 │   ├──── 📡 Recolección (Telegraf)  
-│   │   └──── Configuración de inputs (CPU, RAM, Disco, Nginx)  
+│   │   └────── Configuración de inputs (CPU, RAM, Disco, Nginx)  
 │   │  
 │   ├──── 🗄️ Almacenamiento (InfluxDB)  
-│   │   ├──── Configuración de retención de datos  
-│   │   └──── Token management para seguridad  
+│   │   ├────── Configuración de retención de datos  
+│   │   └────── Token management para seguridad  
 │   │  
 │   └──── 🖥️ Visualización (Grafana)  
-│       ├──── Conexión segura con Data Sources  
-│       ├──── Diseño de Dashboards "Modo Oscuro" (Ergonomía)  
-│       └──── Sistema de Alertas Inteligentes (Telegram/Email)  
+│       ├────── Conexión segura con Data Sources  
+│       ├────── Diseño de Dashboards "Modo Oscuro" (Ergonomía)  
+│       └────── Sistema de Alertas Inteligentes (Telegram/Email)  
 │  
 └─ 📝 FASE 4: VALIDACIÓN Y CIERRE  
     ├──── 🛡️ Auditoría de Cumplimiento  
-    │   ├──── Verificación de cifrado (RGPD)  
-    │   └──── Revisión de licencias (Compliance)  
+    │   ├────── Verificación de cifrado (RGPD)  
+    │   └────── Revisión de licencias (Compliance)  
     │  
     ├──── 💣 Pruebas de Estrés  
-    │   └──── Simulación de caída de servicios y respuesta de alertas  
+    │   └────── Simulación de caída de servicios y respuesta de alertas  
     │  
     └──── 📄 Documentación Final  
-        ├──── Manual de Despliegue  
-        └──── Guía de Usuario para técnicos de Emergya  
+        ├────── Manual de Despliegue  
+        └────── Guía de Usuario para técnicos de Emergya  
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados) 
 
