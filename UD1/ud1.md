@@ -51,7 +51,7 @@ Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente
 
 
 <p align="center">
-  <img src="/UD1/img/emergya.jpeg" alt="emergya" width="400" height="400">
+  <img src="/UD1/img/emergya.jpeg" alt="emergya" width="700" height="400">
   <img src="/UD1/img/emergya2.webp" alt="emergya2" width="400" height="400">
 </p>
 
