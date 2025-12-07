@@ -61,10 +61,13 @@ En el ámbito técnico son especialistas en **Cloud & Infraestructuras** y *Prem
 
 # **3. Identificación de necesidades tecnológicas**
 
-Analizando el contexto operativo de **Emergya** no es sencillo buscar puntos débiles en una empresa que lleva más de 20 años en el sector, pero a pesar de su excelencia técnica, y sabiendo que sólo hace un par de años de su compra por parte del grupo Ayesa, una unión de este calibre supone enfrentarse a un desafío crítico como es la **fragmentación de la infraestructura**.  Los administradores deben lidiar con la **gestión de entornos híbridos heterogéneos** donde conviven simultaneamente servidores físicos de proyectos antiguos con entornos modernos en Google Cloud  y estar sometidos a una **"Fatiga de Alertas"**.
+Analizando el contexto operativo de **Emergya** no es sencillo buscar puntos débiles en una empresa que lleva más de 20 años en el sector, pero a pesar de su excelencia técnica, y sabiendo que sólo hace un par de años de su compra por parte del grupo Ayesa, una unión de este calibre supone enfrentarse a un desafío crítico como es la **fragmentación de la infraestructura** 🧩.  Los administradores deben lidiar con la **gestión de entornos híbridos heterogéneos** donde conviven simultaneamente servidores físicos de proyectos antiguos con entornos modernos en **Google Cloud** lo que puede someter al equipo a una peligrosa **"Fatiga de Alertas"** 📉⚠️.
 
-Para la observabilidad transversal detecto la necesidad de implementar una **Plataforma de Monitorización Centralizada** que funcione igual para los servidores físicos antiguos como para la nube ☁️. Mi propuesta técnica es desplegar un sistema basado en el **Stack TIG** (Telegraf, InfluxDB y Grafana), donde **Telegraf** será el encargado de extraer todas las métricas de todos los sistemas y centralizarlas en una única base de datos 🗄️ **InfluxDB**. Así, los equipos de Emergya tendrán un **cuadro de mando único en Grafana** 🖥️ para controlar la salud de todos los activos del grupo independientemente de su origen y poder recibir **alertas automáticas ante saturaciones** 📊. 
+Para garantizar una observabilidad transversal detecto la necesidad de implementar una **Plataforma de Monitorización Centralizada** que funcione igual para los servidores físicos antiguos como para la nube ☁️. Mi propuesta técnica es desplegar un sistema basado en el **Stack TIG** (Telegraf, InfluxDB y Grafana), donde **Telegraf** será el encargado de extraer todas las métricas de todos los sistemas y centralizarlas en una única base de datos **InfluxDB** 🗄️. Así, los equipos de Emergya tendrán un **cuadro de mando único en Grafana** 🖥️ permitiéndoles controlar la salud de todos los activos del grupo independientemente de su origen y poder recibir **alertas automáticas ante saturaciones** 📊. 
 
+<p align="center">
+  <img src="/UD1/img/stacktig.png" alt="stacktig">
+</p>
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
 
@@ -72,15 +75,18 @@ Para la observabilidad transversal detecto la necesidad de implementar una **Pla
 
 # **4. Oportunidades y viabilidad del proyecto**
 
-La viabilidad económica de esta propuesta es incuestionable, ya que se puede transformar una situación de riesgo crítico en una inversión estratégica de bajo coste 📉➡️📈. Al adoptar un modelo Cloud (IaaS) y utilizar exclusivamente software gratuito, se elimina la barrera inicial que supondría la compra de servidores físicos (CAPEX 🏗️), sustituyéndola por un coste operativo (OPEX) mínimo 💸. El beneficio principal es la continuidad del negocio: implementar un "seguro de vida digital" 🛡️ que garantice que los datos históricos de facturación y clientes estén blindados ante robos, fallos o averías, aportando una resiliencia profesional por una fracción del coste que supondría una parada técnica del taller 🛑🔧.
+La viabilidad económica de esta propuesta es incuestionable, ya que se sustenta en un modelo de **coste cero en Licencias**. Al optar por el **Stack TIG** en sus versiones *Open Source (OSS)*, evitamos la adquisición de costosas suites de monitorización propietarias, lo que supone un importante ahorro económico de miles de euros anuales para la empresa 💰. Esto encaja perfectamente con la cultura de eficiencia de **Emergya**, ya que supone una inversión en talento interno, donde el único recurso necesario es el tiempo de configuración de los técnicos 📈.
 
-Desde la perspectiva técnica, la viabilidad se refuerza mediante el uso de herramientas modernas, ligeras y gratuitas para entornos con recursos limitados ⚡. Para la monitorización trataré de innovar proponiendo el Stack TIG (Telegraf + InfluxDB + Grafana), donde Telegraf actúa como un agente recolector ultraligero e InfluxDB almacena las series temporales con alta eficiencia 🗄️👀. Esta arquitectura demuestra que es posible desplegar un sistema de monitorización de nivel empresarial en un entorno pequeño, garantizando escalabilidad, robustez y cero costes en licencias 🚫, lo que convierte el proyecto en una solución totalmente realista, segura y sostenible a largo plazo 🚀🔒.
+Desde el punto de vista técnico, el proyecto es altamente viable y estratégico para el escenario de la fusión **Emergya-Ayesa**. La arquitectura es **ligera y agnóstica**. **Telegraf es capaz de ejecutarse tanto en los servidores antiguos como en los contenedores de **Google Cloud**, unificando la visión de ambos mundos sin necesidad de ampliar el hardware existente ⚡. Implementar esta solución resuelve el problema de la fragmentación de forma gratuita y dota a la compañía de una plataforma de **observabilidad propia y escalable**, garantizando la sostenibilidad tecnológica a largo plazo 🛡️.
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
 
 ---
 
 # **5. Obligaciones legales y normativas**
+
+
+
 # **6. Guion inicial del proyecto**
 
 
