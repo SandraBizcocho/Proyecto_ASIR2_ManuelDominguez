@@ -65,10 +65,6 @@ Analizando el contexto operativo de **Emergya** no es sencillo buscar puntos dé
 
 Para garantizar una observabilidad transversal detecto la necesidad de implementar una **Plataforma de Monitorización Centralizada** que funcione igual para los servidores físicos antiguos como para la nube ☁️. Mi propuesta técnica es desplegar un sistema basado en el **Stack TIG** (Telegraf, InfluxDB y Grafana), donde **Telegraf** será el encargado de extraer todas las métricas de todos los sistemas y centralizarlas en una única base de datos **InfluxDB** 🗄️. Así, los equipos de Emergya tendrán un **cuadro de mando único en Grafana** 🖥️ permitiéndoles controlar la salud de todos los activos del grupo independientemente de su origen y poder recibir **alertas automáticas ante saturaciones** 📊. 
 
-<p align="center">
-  <img src="/UD1/img/stacktig.png" alt="stacktig">
-</p>
-
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
 
 ---
@@ -78,6 +74,10 @@ Para garantizar una observabilidad transversal detecto la necesidad de implement
 La viabilidad económica de esta propuesta es incuestionable, ya que se sustenta en un modelo de **coste cero en Licencias**. Al optar por el **Stack TIG** en sus versiones *Open Source (OSS)*, evitamos la adquisición de costosas suites de monitorización propietarias, lo que supone un importante ahorro económico de miles de euros anuales para la empresa 💰. Esto encaja perfectamente con la cultura de eficiencia de **Emergya**, ya que supone una inversión en talento interno, donde el único recurso necesario es el tiempo de configuración de los técnicos 📈.
 
 Desde el punto de vista técnico, el proyecto es altamente viable y estratégico para el escenario de la fusión **Emergya-Ayesa**. La arquitectura es **ligera y agnóstica**. **Telegraf es capaz de ejecutarse tanto en los servidores antiguos como en los contenedores de **Google Cloud**, unificando la visión de ambos mundos sin necesidad de ampliar el hardware existente ⚡. Implementar esta solución resuelve el problema de la fragmentación de forma gratuita y dota a la compañía de una plataforma de **observabilidad propia y escalable**, garantizando la sostenibilidad tecnológica a largo plazo 🛡️.
+
+<p align="center">
+  <img src="/UD1/img/stacktig.png" alt="stacktig">
+</p>
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
 
