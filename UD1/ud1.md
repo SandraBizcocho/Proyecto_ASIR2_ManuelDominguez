@@ -47,14 +47,13 @@ Aun así, el mercado sevillano muestra una fuerte polarización 📊. Mientras l
 
 * ### 🏢 Empresa Seleccionada: Emergya <img src="/UD1/img/emergya.jpeg" alt="emergya" width="200" height="200">
 
-Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente a **Emergya**, una empresa sita en Nervión que fue comprada por Ayesa hace sólo un año. Lo que me llama la atención de esta empresa es que, dedicándose a un mundo tan digital, su ADN está basado en el cuidado y satisfacción de su **personal** y el **Software Libre**. Su lema es *Digital & People* ❤️. Sus orígenes están ligados a Guadalinex (el desarrollo de Linux 🐧 en Andalucía). Priorizan el talento dando formación continua a sus empleados, para que sigan desarrollándose personal y profesionalmente, lo que consigue que esta empresa esté alejada del modelo de "rotación masiva" típico del sector.
-
+Para contextualizar el desarrollo de mi proyecto, he seleccionado como referente a **Emergya**, una empresa tecnológica ubicada en Nervión (Sevilla) que fue comprada por el grupo **Ayesa** 🏢 hace sólo un año. Lo que más me ha llamado la atención de esta compañía es que, dedicándose a un mundo digital tan exigente, su ADN sigue fundamentado en el **Software Libre** (con orígenes ligados a Guadalinex 🐧) y en el cuidado de su equipo bajo el lema *Digital & People* ❤️. Emergya prioriza el talento ofreciendo formación continua a sus empleados, para que sigan desarrollándose personal y profesionalmente, lo que consigue que esta empresa esté alejada del modelo de "rotación masiva" típico del sector y que disponga de un entorno de trabajo estable y motivador 🤝.
 
 <p align="center">
   <img src="/UD1/img/emergya2.webp" alt="emergya2" width="400" height="400">
 </p>
 
-Se dedican a **Cloud & Infraestructuras**. Son Premier Partner de Google Cloud, ayudando a grandes organizaciones a migrar sus servidores físicos a la nuble. Proporcionan soluciones digitales desarrollando plataformas web para el sector público. Utilizan la inteligencia artifical. Trabajan con estándares como Apache/Nginx, bases de datos PostgreSQL y MySQL, Python, Docker y Kubernetes.
+En el ámbito técnico son especialistas en **Cloud & Infraestructuras** y *Premier Partner* de Google Cloud, ayudando a grandes organizaciones a migrar sus servidores físicos a la nube ☁️. Su actividad abarca desde el desarrollo de plataformas web para el sector público hasta la implementación de soluciones de **Inteligencia Artificial** 🧠. Para mí son el espejo ideal, ya que su stack tecnológico valida las herramientas que quiero usar: trabajan con estándares como **Apache/Nginx**, gestionan bases de datos **PostgreSQL** y **MySQL** y dominan la **automatización** con **Python, Docker y Kubernetes** 📦.
 
 [⬆️ Volver al índice de apartados](#índice-de-apartados)
 
@@ -62,9 +61,12 @@ Se dedican a **Cloud & Infraestructuras**. Son Premier Partner de Google Cloud, 
 
 # **3. Identificación de necesidades tecnológicas**
 
-Analizando el entorno real del taller **Triana Motor**, he detectado un nivel de riesgo tecnológico muy elevado: toda la gestión y facturación del negocio depende exclusivamente de un único ordenador de sobremesa local, lo que constituye un **"Punto Único de Fallo"** (SPOF) inaceptable 📉. No existe presencia digital ni copias de seguridad automatizadas, una simple avería de hardware, un robo o un ataque de Ransomware supondría la **pérdida irrecuperable** de años de información de clientes, paralizando por completo la actividad comercial del taller ⚠️.
+Analizando el contexto operativo de **Emergya** no es sencillo buscar puntos débiles en una empresa que lleva más de 20 años en el sector, pero a pesar de su excelencia técnica, y sabiendo que sólo hace un par de años de su compra por parte del grupo Ayesa, una unión de este calibre supone enfrentarse a un desafío crítico como es la **fragmentación de la infraestructura**.  Los administradores deben lidiar con la **gestión de entornos híbridos heterogéneos** donde conviven simultaneamente servidores físicos de proyectos antiguos con entornos modernos en Google Cloud  y estar sometidos a una **"Fatiga de Alertas"**.
 
-Para garantizar la supervivencia del negocio, es imprescindible abandonar este modelo local inseguro y migrar hacia una infraestructura **Cloud**. Mi propuesta técnica consiste en un servidor **VPS con Debian** ☁️🐧, desplegar una arquitectura de servicios contenerizados 📦 (**Docker**), separando el Servidor Web 🖥️ (visibilidad) de la Base de Datos 🗄️ (**PostgreSQL/MariaDB**) para proteger la información fuera del local físico. Además, innovar implementando un sistema de observabilidad basado en el Stack TIG (**Telegraf, InfluxDB y Grafana**), configurado para enviar **alertas automáticas ante saturaciones**, permitiendo que el taller pase de la nada tecnológica a contar con un entorno profesional, escalable y vigilado en tiempo real con software **100% Open Source** 📊🚀.
+Para la observabilidad transversal detecto la necesidad de implementar una **Plataforma de Monitorización Centralizada** que funcione igual para los servidores físicos antiguos como para la nube ☁️. Mi propuesta técnica es desplegar un sistema basado en el **Stack TIG** (Telegraf, InfluxDB y Grafana), donde **Telegraf** será el encargado de extraer todas las métricas de todos los sistemas y centralizarlas en una única base de datos 🗄️ **InfluxDB**. Así, los equipos de Emergya tendrán un **cuadro de mando único en Grafana** 🖥️ para controlar la salud de todos los activos del grupo independientemente de su origen y poder recibir **alertas automáticas ante saturaciones** 📊. 
+
+
+[⬆️ Volver al índice de apartados](#índice-de-apartados)
 
 ---
 
