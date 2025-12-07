@@ -25,7 +25,7 @@
 - [ ] [2. Selección de la empresa o contexto de trabajo.](#2-selección-de-la-empresa-o-contexto-de-trabajo)
 - [ ] [3. Identificación de necesidades tecnológicas.](#3-identificación-de-necesidades-tecnológicas)
 - [ ] [4. Oportunidades y viabilidad del proyecto.](#4-oportunidades-y-viabilidad-del-proyecto)
-- [ ] [5. Obligaciones legales y normativas.]
+- [ ] [5. Obligaciones legales y normativas.](#5-obligaciones-legales-y-normativas)
 - [ ] [6. Guion inicial del proyecto.]
 
       
@@ -103,8 +103,10 @@ Finalmente, cumplimos con el **RD 488/1997 de Prevención de Riesgos Laborales (
 # **6. Guion inicial del proyecto**
 
 
+
 [⬆️ Volver al índice de apartados](#índice-de-apartados) 
 
+---
 
 ## Enlaces a recursos de la unidad
 
@@ -134,3 +136,8 @@ Finalmente, cumplimos con el **RD 488/1997 de Prevención de Riesgos Laborales (
 
 - Cultura "People" Emergya
     🔗 [Emergya Careers](https://www.emergya.com/es/trabaja-con-nosotros)
+
+- Funtes Oficiales Normativas:
+    🔗 [RD 488/1997 (Pantallas)](https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669)  
+    🔗 [Licencia AGPLv3 de Grafana](https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/)
+    🔗 [ENS (Esquema Nacional de Seguridad)](https://www.ccn-cert.cni.es/es/series-ccn-stic/documentos-publicos/ens/2449-femp-ens-tomo-1-guia-estrategica-en-seguridad-para-entidades-locales/file.html)
